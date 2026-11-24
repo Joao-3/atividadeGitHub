@@ -4,5 +4,5 @@
 
 alterações independentes aqui
 
-[armagedom.py]
+[armagedom.py]\
 version = "1.0.0"
