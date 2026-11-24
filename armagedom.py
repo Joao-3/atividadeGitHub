@@ -23,3 +23,5 @@ print("Informações do 1º aluno",alunos['aluno1'])
 del alunos['aluno2']
 print("aluno2 excluído")
 print(alunos)
+
+#link github: https://github.com/Joao-3/atividadeGitHub
